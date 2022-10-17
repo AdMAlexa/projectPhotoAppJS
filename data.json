@@ -1,0 +1,50 @@
+[
+    {
+        "id":11,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    },
+    {
+        "id":22,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    },
+    {
+        "id":33,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    },
+    {
+        "id":44,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    },
+    {
+        "id":55,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    },
+    {
+        "id":66,
+        "srcThumbnail": "Media/copac.jpg",
+        "srcImage": "Media/copac2.jpg",
+        "titlu": "Fotografie cu un copac",
+        "descriereScurta": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, corporis!",
+        "descriereLunga": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque ipsa nulla vero esse error facere aliquam iste minus amet dolorum, soluta delectus deleniti corporis sit minima voluptas rerum obcaecati, odio totam doloremque iure! Delectus, eius."
+    }
+]
